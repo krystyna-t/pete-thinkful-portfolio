@@ -61,15 +61,11 @@ hr {
   border-radius: 50%;
 }
 
-article header {
-  text-align: center;
-}
-
 header, footer {
   text-align: center;
 }
 
-a:link {
+a:link, a:visited {
   color: #d62828;
 }
 
